@@ -10,7 +10,7 @@ his is a solution to the [QR code component challenge on Frontend Mentor](https:
 
 
 ## Links
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-using-html-and-css-ETNmyvrIcq)
 - Live Site URL: [Live Site](https://qr-code-component-mauve-eta.vercel.app/)
 ## Built with
 - Semantic HTML5 markup
