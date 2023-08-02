@@ -59,3 +59,7 @@ body{
 .attribution{
     font-size: 14px;
 }
+
+.attribution a{
+    text-decoration:none;
+}
